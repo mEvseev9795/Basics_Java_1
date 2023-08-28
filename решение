@@ -1,0 +1,9 @@
+public class Main {
+    Book book = new Book("Совы охотятся ночью", "Энтони Горовиц", 350);
+    System.out.println (book);
+
+    Book book2 = new Book("Пес по имени Мани", "Бодо Шефер", 85);
+    System.out.println (book2);
+
+
+}
